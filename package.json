@@ -1,6 +1,6 @@
 {
   "name": "flexbox-classes",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "description": "Minimal, low-level set of CSS classes for flexbox",
   "main": "css/flex@2.2.css",
   "scripts": {
