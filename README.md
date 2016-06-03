@@ -4,6 +4,22 @@ from [MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Flexible_boxes
 Class names are loosely based on the [SUIT CSS](https://github.com/suitcss/suit/blob/master/doc/README.md)
 naming convention, but purists may have concerns.
 
+##TL;DR
+
+###Install 
+```
+npm i flexbox-classes
+```
+###Use
+
+With webpack, configure your css-loader, then in your code:
+```
+require('flexbox-classes');
+```
+With any other tool, just link or import
+
+`node_modules/flexbox-classes/css/flex@2.2.css`
+
 ## Version
 
 - flex@2.1 : fixes some more mobile safari issues
