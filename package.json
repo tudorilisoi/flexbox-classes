@@ -1,0 +1,30 @@
+{
+  "name": "flexbox-classes",
+  "version": "2.2.0",
+  "description": "Minimal, low-level set of CSS classes for flexbox",
+  "main": "css/flex@2.2.css",
+  "scripts": {
+    "test": "echo 'No tests implemented'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tudorilisoi/flexbox-classes.git"
+  },
+  "keywords": [
+    "CSS",
+    "flexbox",
+    "flexbox",
+    "kit",
+    "minimal",
+    "flexbox",
+    "learn",
+    "flexbox",
+    "HTML5"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tudorilisoi/flexbox-classes/issues"
+  },
+  "homepage": "https://github.com/tudorilisoi/flexbox-classes#readme"
+}
