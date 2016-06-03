@@ -12,7 +12,22 @@ npm i flexbox-classes
 ```
 ###Use
 
-With webpack, configure your css-loader, then in your code:
+With webpack, configure your css-loader
+
+```
+module: {
+		loaders: [
+			{
+				test: /\.css$/,
+				loader: "style-loader!css-loader"
+			},
+			//...
+			]
+			//...
+			
+```
+
+, then in your code:
 ```
 require('flexbox-classes');
 ```
